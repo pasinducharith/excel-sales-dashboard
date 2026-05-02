@@ -131,12 +131,6 @@ You can download it from the official source.
 
 ---
 
-## 👨‍💻 Author
-
-* Your Name
-
----
-
 ## ⭐ If you like this project
 
 Feel free to star ⭐ the repository!
