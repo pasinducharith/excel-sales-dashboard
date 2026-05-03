@@ -1,4 +1,4 @@
-# excel-sales-dashboard
+# Excel-Sales-Dashboard
 Sales Data Analysis using Excel (Pivot Tables &amp; Dashboard)
 
 # 📊 Excel Sales Dashboard Project
